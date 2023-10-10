@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud concepts, Ethical Hacking and cyber security
 - 🌱 I’m currently learning DevOps and Cloud Security
 - 💞️ I’m looking to collaborate on Cloud 
-- 📫 How to reach me ...
+- 📫 You can reach me at kirtikjr@gmail.com
 
 <!---
 KirtiRanjanNayak/KirtiRanjanNayak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
