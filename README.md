@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KirtiRanjanNayak
-- 👀 I’m interested in Cloud concepts, Ethical Hacking and cyber security
+- 👀 I’m interested in Cloud concepts, Ethical Hacking and Cyber Security
 - 🌱 I’m currently learning DevOps and Cloud Security
 - 💞️ I’m looking to collaborate on Cloud 
 - 📫 You can reach me at kirtikjr@gmail.com
